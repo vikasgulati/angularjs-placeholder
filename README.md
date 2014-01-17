@@ -1,7 +1,7 @@
 angularjs-placeholder.js
 ========================
 
-AngularJs directive pollyfill for html5 placeholder *without jQuery dependency*.
+AngularJs directive pollyfill for html5 placeholder **without jQuery dependency**.
 Inspired from https://gist.github.com/veeracs/5770791.
 
 Requires
@@ -15,5 +15,5 @@ Installation
 1. Download the angularjs-placeholder-polyfill.js file.
 1. Include it in your site.
 1. Include Modernizr in your site.
-1. Install customPlaceholder module in your angular app.
+1. Install **customPlaceholder** module in your angular app.
 
